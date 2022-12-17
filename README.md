@@ -16,7 +16,7 @@ A self-taught analyst working on portfolio projects.
 - ❓ Questions are my work- buddies, I feel motivated while solving them.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces, ☕ Tea Over Coffee !
   
 
 <br/>  
