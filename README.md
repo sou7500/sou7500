@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://github.com/sou7500/sou7500/blob/main/Data%20Analyst.png" align="center" style="width: 100%](https://github.com/sou7500/sou7500/blob/main/Data%20Analyst%20(1).png)" />
+<img src="[https://github.com/sou7500/sou7500/blob/main/Data%20Analyst.png" align="center" style="width: 100%]" />
 </div>  
   
 
