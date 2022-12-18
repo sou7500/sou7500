@@ -1,19 +1,20 @@
-## <div align="center">I'm Sourabh Kumar, a Data Analyst, Poet, Explorer.</div>  
+## <div align="center">I'm Sourabh Kumar, a Data Analyst, Poet,and Explorer.</div>  
 
-
+# This is my life boat-
 
 <div align="center">
-<img src="https://github.com/sou7500/sou7500/blob/main/Data%20Analyst%20(1).png" align="center" style="width: 100%" />
+<img src="https://github.com/sou7500/sou7500/blob/main/Data%20Analyst.png" align="center" style="width: 100%" />
 </div>  
 
 
   
 
-### <div align="center">I'm Sourabh Kumar, an aspiring data analyst. I love data exploration, validation, and visuals.🎞</div>  
+### I love data exploration, validation, analysis, and visuals.🎞</div>  
   
 
 - 🔭 I’m currently working with iEnergizer as an Operations Executive MIS.
-A self-taught analyst working on portfolio projects.  
+
+- 🕵️‍♂️ A self-taught analyst working on portfolio projects.  
   
 
 - 🌱 I’m currently learning Apache Spark to automate ETL  
