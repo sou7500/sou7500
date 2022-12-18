@@ -1,52 +1,35 @@
-## <div align="center">I'm Sourabh Kumar, a Data Analyst, Poet,and Explorer.</div>  
+### Namaste 🙏, I'm Sourabh Kumar - A Data Analyst, Explorer and Poet
+#### This is my Data story
+![This is my Data story](https://github.com/sou7500/sou7500/blob/main/Data%20Analyst.png)
 
-## This is my life boat-
+* Powered by self-motivation and courage, I am on an exploration to Datalantic ocean. My quest is to explore the hidden potential of data.
 
-<div align="center">
-<img src="https://github.com/sou7500/sou7500/blob/main/Data%20Analyst.png" align="center" style="width: 100%" />
-</div>  
+* Identified risks at an earlier stage and took every step carefully.
 
+* Overcame fears by practically doing what I learned.
 
-  
+* Currently working on portfolio projects, improving portfolio schema on the go, and looking out for opportunities to achieve the dream I had 8 months ago.
 
-###<div align="center">  I love data exploration, validation, analysis, and visuals.🎞
-  
+### My Approach -  I learned, I attempted, I failed, I researched the cause of failure, I learned again, I attempted again and I succeeded.
 
-- 🔭 I’m currently working with iEnergizer as an Operations Executive MIS.
+----
 
-- 🕵️‍♂️ A self-taught analyst working on portfolio projects.  
-  
-- 🌱 I’m currently learning Apache Spark to automate ETL  
-  
-- ❓ Questions are my work- buddies, I feel motivated while solving them.  
-  
-- ⚡ Fun fact: I use tabs over spaces, ☕ Tea Over Coffee !
-  
-</div>  
+### Skills: Tableau, Python, SQL, Excel, Apache Spark 
 
 
-## <div align="center">  My Skill Set   
-<table><tr><td valign="top" width="33%">
+------
+### About Me :
 
-### Technical  
-<div align="center">  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a></div>
-</div>
+- 🔭 I’m currently working on Churn Analysis 
+- 🌱 I’m currently learning Apache Spark 
+- 💬 Ask me about Data exploration using Pandas, SQL or Visualization in Tableau 
+- 📫 How to reach me: kumarsourabh92@yahoo.in 
+- ⚡ Fun fact: I love tab over space & I love Tea over Coffee!! 
 
-  
+------
+
+### Find me around the web 🌎: 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sou7500)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sou7500/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/sourabh3075)  
 
 
-## Connected to the world on 🌎:<img align="left" width="150" height="150" src="https://github.com/sou7500/sou7500/blob/main/connected.gif"></a>
-  - Learning in public on <a href="https://www.hackerrank.com/kumarsk927500">Hacker_Rank</a> 📹 ✍🏾
-  - Visuals shared on <a href="https://public.tableau.com/app/profile/sourabh3075"> Tableau_Public</a> 🏓
-  - Sharing updates on <a href="https://www.linkedin.com/in/sourabh-kumar-6b186b125/">LinkedIn</a> 💼
-
-  
-  
-  
-  
-
-## Projects are mentioned in repositories--
