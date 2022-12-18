@@ -1,6 +1,6 @@
 ## <div align="center">I'm Sourabh Kumar, a Data Analyst, Poet,and Explorer.</div>  
 
-# This is my life boat-
+## This is my life boat-
 
 <div align="center">
 <img src="https://github.com/sou7500/sou7500/blob/main/Data%20Analyst.png" align="center" style="width: 100%" />
@@ -42,33 +42,13 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/sou7500" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sourabh-kumar-6b186b125/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
 
-<br/>  
 
-
-
+## Connected to the world on 🌎:<img align="left" width="150" height="150" src="https://github.com/sou7500/sou7500/blob/main/connected.gif"></a>
+- Learning in public on <a href="https://www.hackerrank.com/kumarsk927500">Hacker_Rank</a> 📹 ✍🏾
+- Visuals shared on <a href="https://public.tableau.com/app/profile/sourabh3075"> Tableau_Public</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/sourabh-kumar-6b186b125/">LinkedIn</a> 💼
+  
 
 ## Projects are mentioned in repositories--
