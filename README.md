@@ -46,9 +46,12 @@
 
 
 ## Connected to the world on 🌎:<img align="left" width="150" height="150" src="https://github.com/sou7500/sou7500/blob/main/connected.gif"></a>
-- Learning in public on <a href="https://www.hackerrank.com/kumarsk927500">Hacker_Rank</a> 📹 ✍🏾
-- Visuals shared on <a href="https://public.tableau.com/app/profile/sourabh3075"> Tableau_Public</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/sourabh-kumar-6b186b125/">LinkedIn</a> 💼
+    - Learning in public on <a href="https://www.hackerrank.com/kumarsk927500">Hacker_Rank</a> 📹 ✍🏾
+    - Visuals shared on <a href="https://public.tableau.com/app/profile/sourabh3075"> Tableau_Public</a> 🏓
+    - Sharing updates on <a href="https://www.linkedin.com/in/sourabh-kumar-6b186b125/">LinkedIn</a> 💼
+  
+  
+  
   
 
 ## Projects are mentioned in repositories--
