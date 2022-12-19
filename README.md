@@ -14,10 +14,6 @@
 
 ----
 
-### Skills: Tableau, Python, SQL, Excel, Apache Spark 
-
-
-------
 ### About Me :
 
 - 🔭 I’m currently working on Churn Analysis 
@@ -26,10 +22,23 @@
 - 📫 How to reach me: kumarsourabh92@yahoo.in 
 - ⚡ Fun fact: I love tab over space & I love Tea over Coffee!! 
 
+-----
+
+## Skills: 
+
+![tech-grey-removebg-preview](https://user-images.githubusercontent.com/109259266/208537040-ff92d320-b3aa-4816-ba6f-d30d5393ad4f.png)
+
 ------
+
+
+
 
 ### Find me around the web 🌎: 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sou7500)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sou7500/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/sourabh3075)  
+[<img src='https://user-images.githubusercontent.com/109259266/208538083-c823d701-9c96-40e9-8e47-af6cc03d6150.png' alt='github' height='70'>](https://github.com/Sou7500)  [<img src='https://user-images.githubusercontent.com/109259266/208538362-37ef372c-befd-4a3d-9ba1-d18f1fd2f64b.png' alt='linkedin' height='70'>](https://www.linkedin.com/in/Sou7500/)  [<img src='https://user-images.githubusercontent.com/109259266/208538650-8628eeb3-5621-4fcd-9ed8-4f8d4b2e4b0c.png' alt='tableau' height='60'>](https://public.tableau.com/app/profile/sourabh3075)  
+
+
+
+
 
 
