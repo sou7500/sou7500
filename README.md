@@ -24,7 +24,7 @@
 
 -----
 
-## Skills: 
+## Skills Distribution (How much I use weekly for practice/projects): 
 
 ![tech-grey-removebg-preview](https://user-images.githubusercontent.com/109259266/208537040-ff92d320-b3aa-4816-ba6f-d30d5393ad4f.png)
 
