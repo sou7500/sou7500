@@ -1,4 +1,4 @@
-# Data Is Everywhere
+# Data Is Everywhere, Generating each second- lets use it
 <p align = "right"><img src= "https://github.com/sou7500/sou7500/blob/main/giphy.gif" width = "1000" height="250"/></p>
 
 ## Hello and welcome, I'm Sourabh Kumar - A Data Analyst, Explorer and Poet
