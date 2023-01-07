@@ -1,6 +1,7 @@
+# Data Is Everywhere
 <p align = "right"><img src= "https://github.com/sou7500/sou7500/blob/main/giphy.gif" width = "1000" height="250"/></p>
 
-### Hello and welcome, I'm Sourabh Kumar - A Data Analyst, Explorer and Poet
+## Hello and welcome, I'm Sourabh Kumar - A Data Analyst, Explorer and Poet
 
 <p align = "left"><img src="https://github.com/sou7500/sou7500/blob/main/11-56-56-209_512.webp" width="300" height="250"/></p>
 
