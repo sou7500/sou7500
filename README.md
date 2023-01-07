@@ -5,14 +5,23 @@
 
 <p align = "left"><img src="https://github.com/sou7500/sou7500/blob/main/11-56-56-209_512.webp" width="300" height="250"/></p>
 
+### Education : B.Tech (Mechanical Engineering), Lovely Professional University
 
 #### This is my Data story
 
-♦ Powered by self-motivation and courage, autodidact, polishing skills and growing with learning.
+♦ Learned and applied basics of Excel, SQL & python in graduation.
 
-♦ Overcame fears by practically doing what I learned.
+♦ Financial and other restrictions forced me to think about my career objectives more precisely.
 
-♦ Currently working on portfolio projects, improving portfolio schema on the go, and looking out for opportunities to achieve the dream I had 8 months ago.
+♦ When started working as a MIS Executive, got interacted with data analysis & visualization, the very first time.
+
+♦ First analyzed data in Excel using pivot table, submit my first report, I found data analysis is something meant for me.
+
+♦ Researched over google, what it takes to be an Data Analyst, technical skills and interpersonal skills found a match.
+
+♦ Started polishing my skills using Youtube and Udemy, day by day I became better by learning with peers from all over the world.
+
+♦ Currently working on portfolio projects, and looking out for opportunities to achieve the dream I had 8 months ago.
 
 ### My Approach -  I learned, I attempted, I failed, I researched the cause of failure, I learned again, I attempted again and I succeeded.
 
@@ -20,9 +29,9 @@
 
 ### About Me :
 
-- 🔭 I’m currently working on Churn Analysis 
+- 🔭 I’m currently working on Churn Analysis and Predictive Modelling.
 - 🌱 I’m currently learning Py Spark
-- 💬 Ask me about Data exploration using Pandas, SQL or Visualization in Tableau 
+- 💬 Ask me about Data exploration using Pandas, SQL and Visualization in Tableau 
 - 📫 How to reach me: kumarsourabh92@yahoo.in 
 - ⚡ Fun fact: I love tab over space & I love Tea over Coffee!! 
 
@@ -42,6 +51,18 @@
 [<img src='https://user-images.githubusercontent.com/109259266/208538083-c823d701-9c96-40e9-8e47-af6cc03d6150.png' alt='github' height='70'>](https://github.com/Sou7500)  [<img src='https://user-images.githubusercontent.com/109259266/208538362-37ef372c-befd-4a3d-9ba1-d18f1fd2f64b.png' alt='linkedin' height='70'>](https://www.linkedin.com/in/Sou7500/)  [<img src='https://user-images.githubusercontent.com/109259266/208538650-8628eeb3-5621-4fcd-9ed8-4f8d4b2e4b0c.png' alt='tableau' height='60'>](https://public.tableau.com/app/profile/sourabh3075)  
 
 -----
+### Hobbies 🙋‍♂️
+
+🖼 Tableau
+
+💧  Music, Singing, Guitar
+
+🏃‍♂️ Trekking, Travelling
+
+🎞 Movies
+
+-----
+
 
 🔋 Last updated : 7th Jan, 2023
 
