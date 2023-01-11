@@ -43,9 +43,13 @@
 
 ------
 
+## My Work Sample 
+![atli](https://user-images.githubusercontent.com/109259266/211861352-a6aa40ef-0856-4d9e-8549-fa6a31d75f01.png)
+-----
+![HR analytics](https://user-images.githubusercontent.com/109259266/211861413-81c221b8-c6ff-4334-bc71-49bce262bb44.PNG)
 
 
-
+-----
 ### Find me around the web 🌎: 
 
 [<img src='https://user-images.githubusercontent.com/109259266/208538083-c823d701-9c96-40e9-8e47-af6cc03d6150.png' alt='github' height='70'>](https://github.com/Sou7500)  [<img src='https://user-images.githubusercontent.com/109259266/208538362-37ef372c-befd-4a3d-9ba1-d18f1fd2f64b.png' alt='linkedin' height='70'>](https://www.linkedin.com/in/Sou7500/)  [<img src='https://user-images.githubusercontent.com/109259266/208538650-8628eeb3-5621-4fcd-9ed8-4f8d4b2e4b0c.png' alt='tableau' height='60'>](https://public.tableau.com/app/profile/sourabh3075)  
