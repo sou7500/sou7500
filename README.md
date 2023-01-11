@@ -68,6 +68,6 @@
 -----
 
 
-🔋 Last updated : 10th Jan, 2023
+🔋 Last updated : 11th Jan, 2023
 
 
