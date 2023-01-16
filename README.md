@@ -1,9 +1,8 @@
 ## We have been tremendous job in storing data under different format for various purposes, now is the time to leverage it's potential.
 <img src= "file:///C:/Users/asus/Desktop/gramophone-vintage-vinyl-technology-wallpaper-preview.jpg" width = "40" height="40"/>
 
- I understand/explore/summarize/analyze data and try my best to provide a visual representation, I am a data analyst.
-# Data Is Everywhere, Generating each second- lets use it
-<p align = "right"><img src= "https://github.com/sou7500/sou7500/blob/main/giphy.gif" width = "40" height="40"/></p>
+## I understand/explore/summarize/analyze data and try my best to provide a visual representation, I am a data analyst.
+## Data Is Everywhere, Generating each second- lets use it <p align = "right"><img src= "https://github.com/sou7500/sou7500/blob/main/giphy.gif" width = "180" height="150"/></p>
 
 ## Hello and welcome, I'm Sourabh Kumar - A Data Analyst, Explorer and Poet
 
@@ -37,7 +36,8 @@
 - 🌱 I’m currently learning Py Spark
 - 💬 Ask me about Data exploration using Pandas, SQL and Visualization in Tableau 
 - 📫 How to reach me: kumarsourabh92@yahoo.in 
-- ⚡ Fun fact: I love tab over space & I love Tea over Coffee!! 
+- ⚡ Fun fact: I love tab over space & I love Tea over Coffee!!
+- 💑 Relationship I'm interested in: # Within Variables.
 
 -----
 
