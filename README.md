@@ -1,12 +1,9 @@
 ## We have been tremendous job in storing data under different format for various purposes, now is the time to leverage it's potential.
-<img src= "file:///C:/Users/asus/Desktop/gramophone-vintage-vinyl-technology-wallpaper-preview.jpg" width = "40" height="40"/>
 
-## I understand/explore/summarize/analyze data and try my best to provide a visual representation, I am a data analyst.
-## Data Is Everywhere, Generating each second- lets use it <p align = "right"><img src= "https://github.com/sou7500/sou7500/blob/main/giphy.gif" width = "180" height="150"/></p>
+## Data Is Everywhere, Generating each second. <p align = "center"><img src= "https://github.com/sou7500/sou7500/blob/main/giphy.gif" width = "250" height="180"/></p>  I understand/explore/summarize/analyze data and try my best to provide a visual representation, I am a data analyst.
+
 
 ## Hello and welcome, I'm Sourabh Kumar - A Data Analyst, Explorer and Poet
-
-<p align = "left"><img src="https://github.com/sou7500/sou7500/blob/main/11-56-56-209_512.webp" width="300" height="250"/></p>
 
 ### Education : B.Tech (Mechanical Engineering), Lovely Professional University
 
