@@ -47,8 +47,8 @@
 ![atli](https://user-images.githubusercontent.com/109259266/211861352-a6aa40ef-0856-4d9e-8549-fa6a31d75f01.png)
 -----
 ![HR analytics](https://user-images.githubusercontent.com/109259266/211861413-81c221b8-c6ff-4334-bc71-49bce262bb44.PNG)
-
-
+----
+![thumbnail google pla](https://user-images.githubusercontent.com/109259266/212714216-87ed21f8-e248-4885-be0f-b2c77c3f506b.jpg)
 -----
 ### Find me around the web 🌎: 
 
