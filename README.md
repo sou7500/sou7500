@@ -44,7 +44,7 @@
 
 ------
 
-## My Work Sample 
+## My Work Sample (Stored in repositories, readme.md file contains all information)
 ![atli](https://user-images.githubusercontent.com/109259266/211861352-a6aa40ef-0856-4d9e-8549-fa6a31d75f01.png)
 -----
 ![HR analytics](https://user-images.githubusercontent.com/109259266/211861413-81c221b8-c6ff-4334-bc71-49bce262bb44.PNG)
