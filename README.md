@@ -51,6 +51,7 @@
 
 <p align = "center"><img src= "https://github.com/sou7500/Google_Play_EDA/blob/main/thumbnail%20google%20pla.jpg" width = "700" height="400"/></p>
 
+<p align = "center"><img src= "https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/irline.png" width = "700" height="400"/></p>
 
 ## Find me around the web 🌎: 
 
@@ -70,6 +71,6 @@
 -----
 
 
-## 🔋 Last updated : 17th Jan, 2023
+## 🔋 Last updated : 18th Jan, 2023
 
 
