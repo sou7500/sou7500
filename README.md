@@ -71,6 +71,6 @@
 -----
 
 
-## 🔋 Last updated : February 4th, 2023
+## 🔋 Last updated : February 7th, 2023
 
 
