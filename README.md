@@ -1,4 +1,4 @@
-# We have been doing tremendous job in storing data under different format for various purposes, now is the time to leverage it's potential.
+# We have been doing tremendous job in storing data under different format for various purposes, now is the time to dive deep into it's potential.
  <p align = "center"><img src= "https://github.com/sou7500/sou7500/blob/main/gr.jpeg" width = "800" height="400"/></p>
 
 # Data Is Everywhere, Generating each second. <p align = "center"><img src= "https://github.com/sou7500/sou7500/blob/main/giphy.gif" width = "250" height="180"/></p>  I understand/explore/summarize/analyze data and do best to provide a visual representation.
