@@ -48,11 +48,12 @@
 
 [<img src='https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/HR%20analytics.PNG' alt='github' width = "600" height='400' align ='center'/>](https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/README.md)  
 
-<p align = "center"><img src= "https://github.com/sou7500/Atliq-Grand-Hotel-Chain-Business-Analysis/blob/main/atli.png" width = "700" height="400"/></p>
+[<img src='https://github.com/sou7500/Atliq-Grand-Hotel-Chain-Business-Analysis/blob/main/atli.png' alt='github' width = "600" height='400' align ='center'/>](https://github.com/sou7500/Atliq-Grand-Hotel-Chain-Business-Analysis/blob/main/README.md) 
 
-<p align = "center"><img src= "https://github.com/sou7500/Google_Play_EDA/blob/main/thumbnail%20google%20pla.jpg" width = "700" height="400"/></p>
+ [<img src='https://github.com/sou7500/Google_Play_EDA/blob/main/thumbnail%20google%20pla.jpg' alt='github' width = "600" height='400' align ='center'/>](https://github.com/sou7500/Google_Play_EDA/blob/main/README.md) 
 
-<p align = "center"><img src= "https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/irline.png" width = "700" height="400"/></p>
+ [<img src='https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/irline.png' alt='github' width = "600" height='400' align ='center'/>](https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/README.md) 
+
 
 ## Find me around the web 🌎: 
 
