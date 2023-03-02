@@ -44,7 +44,7 @@
 
 ------
 
-# My Work Sample (Stored in repositories, readme.md file contains all information)
+# My Work Sample (Click on each project to view detailed explanation)
 
 [<img src='https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/HR%20analytics.PNG' alt='github' width = "600" height='400' align ='center'/>](https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/README.md)  
 
