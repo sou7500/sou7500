@@ -13,7 +13,7 @@
 
 👨‍💻 Responsibilities forced me to think about my career objectives more precisely and score and uplift myself.
 
-🧩 When started working as a MIS Executive, got interacted with data analysis & visualization, the very first time.
+🧩 When started working as a TRON Associsate, AMAZON, got interacted with data analysis & visualization, the very first time.
 
 ✔ First analyzed data in Excel using pivot table, submit my first report, I found data analysis is something meant for me.
 
@@ -34,7 +34,7 @@
 - 💬 Ask me about Data exploration using Pandas, SQL and Visualization in Tableau 
 - 📫 How to reach me: kumarsourabh92@yahoo.in 
 - ⚡ Fun fact: I love tab over space & I love Tea over Coffee!!
-- 💑 Relationship I'm interested in: # Within Variables.
+- 💑 Relationship I'm interested in: Joins
 
 -----
 
