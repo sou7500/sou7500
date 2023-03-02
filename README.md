@@ -46,7 +46,7 @@
 
 # My Work Sample (Stored in repositories, readme.md file contains all information)
 
-[<img src='https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/HR%20analytics.PNG' alt='github' width = "600" height='400'>](https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/README.md)  
+[<img src='https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/HR%20analytics.PNG' alt='github' width = "600" height='400' align ='center'/>](https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/README.md)  
 
 <p align = "center"><img src= "https://github.com/sou7500/Atliq-Grand-Hotel-Chain-Business-Analysis/blob/main/atli.png" width = "700" height="400"/></p>
 
