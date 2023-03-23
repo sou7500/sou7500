@@ -73,6 +73,6 @@
 -----
 
 
-## 🔋 Last updated : February 10th March, 2023
+## 🔋 Last updated :  23rd March, 2023
 
 
