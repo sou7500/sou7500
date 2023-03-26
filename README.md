@@ -1,16 +1,20 @@
-# We have been doing tremendous job in storing data under different format for various purposes, now is the time to dive deep into it's potential.
+ 
+ #	_We have been doing tremendous job in storing data under different format for various purposes, now is the time to dive deep into it's potential._ 
+ 
+
  <p align = "center"><img src= "https://github.com/sou7500/sou7500/blob/main/gr.jpeg" width = "900" height="350"/></p>
 
 
 <p align = "left"><img src= "https://github.com/sou7500/sou7500/blob/main/11-56-56-209_512.webp" width = "180" height="200"/></p> <p align = "right"><img src= "https://github.com/sou7500/sou7500/blob/main/header%20final.png" width = "700" height="200"/></p>
 
-## I understand/explore/summarize/analyze data and do best to provide a visual representation.
+## ** _I understand/explore/summarize/analyze data and do best to provide a visual representation._ **
 
 ### Education : B.Tech (Mechanical Engineering), Lovely Professional University, Punjab, India, 2017
 
 ----
 
-## My Work Sample (Click on each project to view detailed explanation)
+## 
+> ## (Click on each project to view detailed explanation)
 
 [<img src='https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/HR%20analytics.PNG' alt='github' width = "400" height='300' align ='center'/>](https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/README.md)  
 
@@ -20,9 +24,10 @@
 
  [<img src='https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/irline.png' alt='github' width = "400" height='300' align ='center'/>](https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/README.md) 
   ----
- 
+
 ## This is my Data story
 
+```
 ♦ Learned and applied basics of Excel, SQL & python in graduation.
 
 👨‍💻 Responsibilities forced me to think about my career objectives more precisely and uplift myself.
@@ -37,7 +42,7 @@
 
 🖼 Currently working on portfolio projects, and looking out for opportunities to achieve the dream I had 8 months ago.
 
-
+```
 
 # 🙋‍♂️ My Approach -  I learned, I attempted, I failed, I researched the cause of failure, I learned again, I attempted again and I succeeded.
 ----
@@ -80,7 +85,7 @@
 -----
 
 
-## 🔋 Last updated :  24th March, 2023
+## 🔋 Last updated :  27th March, 2023
 
 # Data Is Everywhere, Generating each second. <p align = "center"><img src= "https://github.com/sou7500/sou7500/blob/main/giphy.gif" width = "250" height="180"/></p>
 
