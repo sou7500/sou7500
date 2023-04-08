@@ -9,7 +9,7 @@
 
 ## ** _I understand/explore/summarize/analyze data and do best to provide a visual representation._ **
 
-### Education : B.Tech (Mechanical Engineering), Lovely Professional University, Punjab, India, 2017
+###  Education : B.Tech (Mechanical Engineering), Lovely Professional University, Punjab, India, 2017  
 
 ----
 
