@@ -16,13 +16,15 @@
 ## 
 > ## (Click on each project to view detailed explanation)
 
-[<img src='https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/HR%20analytics.PNG' alt='github' width = "400" height='300' align ='center'/>](https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/README.md)  
+[<img src='https://github.com/sou7500/Become_Successful_Airbnb_Host/blob/main/aibnb_thumbnail.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Become_Successful_Airbnb_Host/blob/main/README.md)  
 
-[<img src='https://github.com/sou7500/Atliq-Grand-Hotel-Chain-Business-Analysis/blob/main/atli.png' alt='github' width = "400" height='300' align ='center'/>](https://github.com/sou7500/Atliq-Grand-Hotel-Chain-Business-Analysis/blob/main/README.md) 
+[<img src='https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/HR%20analytics.PNG' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/README.md)  
 
- [<img src='https://github.com/sou7500/Google_Play_EDA/blob/main/thumbnail%20google%20pla.jpg' alt='github' width = "400" height='300' align ='center'/>](https://github.com/sou7500/Google_Play_EDA/blob/main/README.md) 
+[<img src='https://github.com/sou7500/Atliq-Grand-Hotel-Chain-Business-Analysis/blob/main/atli.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Atliq-Grand-Hotel-Chain-Business-Analysis/blob/main/README.md) 
 
- [<img src='https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/irline.png' alt='github' width = "400" height='300' align ='center'/>](https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/README.md) 
+ [<img src='https://github.com/sou7500/Google_Play_EDA/blob/main/thumbnail%20google%20pla.jpg' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Google_Play_EDA/blob/main/README.md) 
+
+ [<img src='https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/irline.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/README.md) 
   ----
 
 ## This is my Data story
