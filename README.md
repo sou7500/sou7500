@@ -1,4 +1,8 @@
- 
+ # Sections:(Please Scroll to visit different sections)
+ > ### **Intro**
+ > ### **Education**
+ > ### **Projects**
+ > ### **About me**
  #	_We have been doing tremendous job in storing data under different format for various purposes, now is the time to dive deep into it's potential._ 
  
 
