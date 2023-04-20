@@ -11,7 +11,7 @@
 
 <p align = "left"><img src= "https://github.com/sou7500/sou7500/blob/main/11-56-56-209_512.webp" width = "180" height="200"/></p> <p align = "right"><img src= "https://github.com/sou7500/sou7500/blob/main/header%20final.png" width = "700" height="200"/></p>
 
-## ** _I understand/explore/summarize/analyze data and do best to provide a visual representation._ **
+## **_I understand/explore/summarize/analyze data and do best to provide a visual representation._**
 
 ###  Education : B.Tech (Mechanical Engineering), Lovely Professional University, Punjab, India, 2017  
 
