@@ -22,7 +22,7 @@
 
 [<img src='https://github.com/sou7500/Atliq-Grand-Hotel-Chain-Business-Analysis/blob/main/atli.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Atliq-Grand-Hotel-Chain-Business-Analysis/blob/main/README.md) 
 
- [<img src='https://github.com/sou7500/Google_Play_EDA/blob/main/thumbnail%20google%20pla.jpg' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Google_Play_EDA/blob/main/README.md) 
+ [<img src='https://github.com/sou7500/Google_Play_EDA/blob/main/Google_play_thumbnail.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Google_Play_EDA/blob/main/README.md) 
 
  [<img src='https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/irline.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/README.md) 
   ----
