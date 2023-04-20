@@ -18,7 +18,7 @@
 ----
 
 ## 
-> ## (Click on each project to view detailed explanation)
+> # **Projects** (Click on each project to view detailed explanation)
 
 [<img src='https://github.com/sou7500/Become_Successful_Airbnb_Host/blob/main/aibnb_thumbnail.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Become_Successful_Airbnb_Host/blob/main/README.md)  
 
