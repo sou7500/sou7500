@@ -3,7 +3,9 @@
  > ### **Education**
  > ### **Projects**
  > ### **About me**
- #	_We have been doing tremendous job in storing data under different format for various purposes, now is the time to dive deep into it's potential._ 
+
+
+ #	**_We have been doing tremendous job in storing data under different format for various purposes, now is the time to dive deep into it's potential._** 
  
 
  <p align = "center"><img src= "https://github.com/sou7500/sou7500/blob/main/gr.jpeg" width = "900" height="350"/></p>
@@ -20,15 +22,25 @@
 ## 
 > # **Projects** (Click on each project to view detailed explanation)
 
+## **Python - Pandas (EDA)**
+
+
 [<img src='https://github.com/sou7500/Become_Successful_Airbnb_Host/blob/main/aibnb_thumbnail.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Become_Successful_Airbnb_Host/blob/main/README.md)  
+
+[<img src='https://github.com/sou7500/Google_Play_EDA/blob/main/Google_play_thumbnail.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Google_Play_EDA/blob/main/README.md) 
+
+[<img src='https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/irline.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/README.md) 
+
+## **Tableau**
+
 
 [<img src='https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/HR%20analytics.PNG' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Human_Resource_Attrition_Analysis/blob/main/README.md)  
 
 [<img src='https://github.com/sou7500/Atliq-Grand-Hotel-Chain-Business-Analysis/blob/main/atli.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Atliq-Grand-Hotel-Chain-Business-Analysis/blob/main/README.md) 
 
- [<img src='https://github.com/sou7500/Google_Play_EDA/blob/main/Google_play_thumbnail.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Google_Play_EDA/blob/main/README.md) 
+ 
 
- [<img src='https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/irline.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/README.md) 
+ 
   ----
 
 ## This is my Data story
