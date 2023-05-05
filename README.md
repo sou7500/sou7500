@@ -27,7 +27,7 @@
 
 [<img src='https://github.com/sou7500/Become_Successful_Airbnb_Host/blob/main/aibnb_thumbnail.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Become_Successful_Airbnb_Host/blob/main/README.md)  
 
-[<img src='https://github.com/sou7500/Stocks-Analysis/blob/main/IGL%20Analysis.png' alt='github' width = "500" height='300' align ='center'/>]()  
+[<img src='https://github.com/sou7500/Stocks-Analysis/blob/main/IGL%20Analysis.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Stocks-Analysis/blob/main/README.md)  
 
 [<img src='https://github.com/sou7500/Google_Play_EDA/blob/main/Google_play_thumbnail.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Google_Play_EDA/blob/main/README.md) 
 
