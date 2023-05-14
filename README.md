@@ -33,7 +33,7 @@
 
 [<img src='https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/airlinelogo.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Airline-Passenger-Analysis/blob/main/README.md) 
 
-#  ------------------------------------------------------------------------------
+#  ---------------------------------------------------------------------------
 
 ## **Tableau**
 
@@ -42,7 +42,7 @@
 
 [<img src='https://github.com/sou7500/Atliq-Grand-Hotel-Chain-Business-Analysis/blob/main/atli.png' alt='github' width = "500" height='300' align ='center'/>](https://github.com/sou7500/Atliq-Grand-Hotel-Chain-Business-Analysis/blob/main/README.md) 
 
-#  ------------------------------------------------------------------------------ 
+#  ---------------------------------------------------------------------------
 
  
 
