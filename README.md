@@ -97,7 +97,7 @@
 
 🖼 Tableau
 
-💧  Music, Singing, Guitar
+🎶🎸 Music, Singing, Guitar
 
 🏃‍♂️ Trekking, Travelling
 
