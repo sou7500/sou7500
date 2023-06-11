@@ -106,7 +106,7 @@
 -----
 
 
-## 🔋 Last updated :  07th June, 2023
+## 🔋 Last updated :  11th June, 2023
 
 # Data Is Everywhere, Generating each second. <p align = "center"><img src= "https://github.com/sou7500/sou7500/blob/main/giphy.gif" width = "250" height="180"/></p>
 
