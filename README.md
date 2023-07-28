@@ -5,22 +5,22 @@
  > ### **About me**
 
 
- #	**_We have been doing tremendous job in storing data under different format for various purposes, now is the time to dive deep into it's potential._** 
+ #	**_We have been doing a tremendous job in storing data under different formats for various purposes, now is the time to dive deep into its potential._** 
  
 
  <p align = "center"><img src= "https://github.com/sou7500/sou7500/blob/main/gr.jpeg" width = "900" height="350"/></p>
 
 
-<p align = "left"><img src= "https://github.com/sou7500/sou7500/blob/main/11-56-56-209_512.webp" width = "180" height="200"/></p> <p align = "right"><img src= "https://github.com/sou7500/sou7500/blob/main/header%20final.png" width = "700" height="200"/></p>
+<p align = "left"><img src= "https://github.com/sou7500/sou7500/blob/main/11-56-56-209_512.webp" width = "180" height="200"/></p> <p align = "right"></p>
 
-## **_I understand/explore/summarize/analyze data and do best to provide a visual representation._**
+## **_I understand business requirements and transform data while exchanging between endpoints._**
 
-###  Education : B.Tech (Mechanical Engineering), Lovely Professional University, Punjab, India, 2017  
+###  Education: B.Tech (Mechanical Engineering), Lovely Professional University, Punjab, India, 2017  
 
 ----
 
 ## 
-> # **Projects** (Click on each project to view detailed explanation)
+> # **Projects** (Click on each project to view a detailed explanation)
 
 ## **Python - Pandas (EDA)**
 
@@ -53,15 +53,15 @@
 
 👨‍💻 Responsibilities forced me to think about my career objectives more precisely and uplift myself.
 
-🧩 When started working as a TRON Associsate at AMAZON, got interacted with data analysis partly, the very first time.
+🧩 When started working as a TRON Associate at AMAZON, got interacted with data analysis partly, the very first time.
 
-✔ First analyzed data in Excel using pivot table, submit my first report, I found data analysis is something meant for me.
+✔ First analyzed data in Excel using a pivot table, and submit my first report, I found data environment is meant for me.
 
-🌐 Researched over google, what it takes to be an Data Analyst, technical skills and interpersonal skills found a match.
+🌐 Researched over Google, what it takes to be a Data Analyst Data Engineer, technical skills, and interpersonal skills found a match.
 
 🎡 Started polishing my skills using Youtube and Udemy, day by day I became better by learning with peers from all over the world.
 
-🖼 Currently working on portfolio projects, and looking out for opportunities to achieve the dream I had 8 months ago.
+🖼 Entered the field as an Associate Data Engineer, looking out for more challenging and exciting opportunities.
 
 ```
 
@@ -70,23 +70,14 @@
 
 ## About Me :
 
-- 🔭 I’m currently working on Churn Analysis, Predictive Modelling and Stocks Technical Analysis.
-- 🌱 I’m currently learning Py Spark
-- 💬 Ask me about Data exploration using Pandas, SQL and Visualization in Tableau 
+- 🔭 I’m currently working on Cloud Computing such as Microsoft Azure and GCP.
+- 🌱 I’m currently learning Py Spark Optimization
+- 💬 Ask me about Data exploration using ETL design - monitor & orchestration, SQL and Visualization in Tableau.
 - 📫 How to reach me: kumarsourabh92@yahoo.in 
 - ⚡ Fun fact: I love tab over space & I love Tea over Coffee!!
 - 💑 Relationship I'm interested in: Joins
 
 -----
-
-## Skills Distribution (Usage in a week for practice/projects): 
-
-<p align ="center"><img src="https://user-images.githubusercontent.com/109259266/208537040-ff92d320-b3aa-4816-ba6f-d30d5393ad4f.png" width ="300"  height="250"></p>
-
-------
-
-
-
 
 ## I can be found around the Web on 🌎: 
 
@@ -95,7 +86,7 @@
 -----
 ## Hobbies 🙋‍♂️
 
-🖼 Tableau
+🖼 ETL, Tableau
 
 🎶🎸 Music, Singing, Guitar
 
@@ -106,7 +97,7 @@
 -----
 
 
-## 🔋 Last updated :  24th June, 2023
+## 🔋 Last updated :  28th July, 2023
 
 # Data Is Everywhere, Generating each second. <p align = "center"><img src= "https://github.com/sou7500/sou7500/blob/main/giphy.gif" width = "250" height="180"/></p>
 
